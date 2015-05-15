@@ -6,6 +6,6 @@ declared-services:
 applications:
 - services:
   - personality-insights-service
-  name: personality-insights-java
-  path: webApp.war
+  name: glue-personality-insights-java
+  path: glueapp.war
   memory: 512M
