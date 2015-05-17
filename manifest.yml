@@ -7,5 +7,5 @@ applications:
 - services:
   - personality-insights-service
   name: glue-personality-insights-java
-  path: glueapp.war
+  path: webApp.war
   memory: 512M
