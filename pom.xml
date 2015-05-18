@@ -35,12 +35,6 @@
  	<artifactId>json</artifactId>
 	<version>20090211</version>
      </dependency>
-     <dependency>
-         <artifactId>com.ibm.json</artifactId>
-        <groupId>java</groupId>
-         <scope>system</scope>
-         <systemPath>${basedir}/src/main/resources/com.ibm.websphere.appserver.api.json_1.0.2.jar</systemPath>
-                </dependency>
     </dependencies>
 
     <build>
