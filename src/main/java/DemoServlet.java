@@ -38,8 +38,9 @@ import org.apache.http.client.fluent.Request;
 import org.apache.http.client.fluent.Response;
 import org.apache.http.entity.ContentType;
 
-import com.ibm.json.java.JSONArray;
-import com.ibm.json.java.JSONObject;
+import org.json.java.JSONArray;
+import org.json.java.JSONObject;
+/*import com.ibm.json.java.JSONObject;
 
 @MultipartConfig
 public class DemoServlet extends HttpServlet {
