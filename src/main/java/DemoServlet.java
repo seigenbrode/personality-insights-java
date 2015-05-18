@@ -40,7 +40,6 @@ import org.apache.http.entity.ContentType;
 
 import org.json.java.JSONArray;
 import org.json.java.JSONObject;
-/*import com.ibm.json.java.JSONObject;
 
 @MultipartConfig
 public class DemoServlet extends HttpServlet {
