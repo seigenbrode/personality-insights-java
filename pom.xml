@@ -39,7 +39,7 @@
          <artifactId>com.ibm.json</artifactId>
         <groupId>java</groupId>
          <scope>system</scope>
-         <systemPath>${basedir}/src/main/resource/com.ibm.websphere.appserver.api.json_1.0.2.jar</systemPath>
+         <systemPath>${basedir}/src/main/resources/com.ibm.websphere.appserver.api.json_1.0.2.jar</systemPath>
                 </dependency>
     </dependencies>
 
