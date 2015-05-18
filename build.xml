@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE xml>
 
-<project basedir="." default="build" name="WebApp">
+<project basedir="." default="build" name="WebApp" xlmn:sonar="antlib:org.sonar.ant">
 	<property environment="env" />
 	<property name="srcDir" value="." />
 	<property name="debuglevel" value="source,lines,vars" />
